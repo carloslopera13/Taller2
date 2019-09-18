@@ -1,0 +1,31 @@
+¿Qué es un observable en RXJS?
+
+Los observables son colecciones Push diferidas de múltiples valores o de una mejor manera es el objecto a cuyos cambios de estado se quieren subscribir otros objetos.
+
+¿Cómo se usa en angular?
+Ejemplo 1:
+Asi se crea un proyecto en Angular
+ng new NOMBRE_DEL_PROYECTO_ANGULAR5
+
+Ejemplo 2
+Asi se crearían módulos
+Ng generate module mimodulo
+
+
+¿Qué es ECMAScript?
+nos referimos al estándar que ya va por la versión ES6 y determina cómo emplear el lenguaje JavaScript, que permite a los fabricantes de software desarrollar las herramientas adecuada para interpretarlo correctamente.
+ ¿Cuál es su versión actual?
+La versión actual es ES6
+
+
+
+¿Qué es una promesa en JavaScript?
+
+es un objeto que representa la terminación o el fracaso eventual de una operación asíncrona.
+
+Indique los actuales, estilos o estándares de codificación, de una breve definición de por lo menos 5
+-	Identación: Todo el código desarrollado tendrá una indentación de 8 espacios. Esta identación es la utilizada en el kernel de linux.
+-	Nombrado de símbolos: Es interesante seguir un buen nombrado para las funciones para así evitar usar nombres establecidos en otras partes, además de facilitar la lectura del código.
+-	Comentario de código: Todas las funciones tienen que estar documentadas explicando que realiza cada un de ellas. Para ello se utilizará el estandar de documentación de gnome.  
+-	Espacio dentro del código: Es muy importante que a la hora de escribir código, se dejen los espacios de separación entre los elementos para poder leer bien.
+-	Código robusto: Hay que conseguir que el código desarrollado sea robusto, especialmente en librerías. Se tienen que comprobar todos los datos, para que en caso de mal uso de la librería que se está desarrollando, no se rompa de manera inesperada. 
