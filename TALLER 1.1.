@@ -1,0 +1,50 @@
+NodeJS
+Node.js es un entorno JavaScript de código abierto, de lado de servidor que utiliza un modelo asíncrono y dirigido por eventos.
+
+.Net Core
+Es un nuevo framework de código abierto y multiplataforma para la creación de aplicaciones modernas conectadas a Internet, como aplicaciones web y APIs Web. 
+Se diseñó para proporcionar un framework de desarrollo optimizado para las aplicaciones que se implementan tanto en la nube como en servidores dedicados en las instalaciones del cliente.
+Spring Boot
+Reduce notablemente la complejidad de la especificación estándar de Java (“J2EE” o “plataforma Java”), así como del modelo de componentes de los Enterprise JavaBeans (“EJB”). Desde que se lanzó el complemento Spring Boot, que agiliza todavía más la configuración de nuevos proyectos con Spring, el marco ha demostrado ser una opción excelente y fácil de utilizar en los casos en que no queremos comenzar a desarrollar una aplicación en Java desde cero.
+
+Python
+es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional.
+Scala
+es un lenguaje de programación multiparadigma diseñado para expresar patrones comunes de programación en forma concisa, elegante y con tipos seguros. Integra sutilmente características de lenguajes funcionales y orientados a objetos.
+
+Ruby
+es un lenguaje con un balance cuidado. Su creador, Yukihiro “Matz” Matsumoto, mezcló partes de sus lenguajes favoritos (Perl, Smalltalk, Eiffel, Ada y Lisp) para formar un nuevo lenguaje que incorporara tanto la programación funcional como la imperativa.
+Rust
+es un lenguaje de programación compilado, de propósito general y multiparadigma que está siendo desarrollado por Mozilla. Ha sido diseñado para ser "un lenguaje seguro, concurrente y práctico".
+
+Lenguaje	Ventajas	Desventajas
+NodeJS	-	Al estar inspirado en JavaScript cuenta con una semántica muy fácil de digerir, aprender y aplicar por cualquier programador.
+-	Garantiza un elevado rendimiento.
+-	Se trata de un lenguaje que puede utilizarse en la gran mayoría de servidores, incluyendo los más conocidos como Unix, Microsoft o Mac.	-	No se puede trabajar con archivos estáticos
+-	No es cofniable refactorizar el código
+-	Arquitectura simple
+.Net Core	-	Mejorar el desarrollo de Microservicios.
+-	Multiplataforma
+-	Aplicaciones Escalables.	-	Muy costoso migrar de Net framework a Net core
+Spring Boot	-	Ahorra tiempo a la hora de descargar las dependencias y al desplegar a un servidor	-	No es posible personificar un registro.
+Python	-	No necesita compilar para ejecutarse.
+-	Buena cantidad de librerías que optimizan el desarrollo.	-	Cuando estas enfocado en la web, su curva de aprendizaje es compleja.
+-	Muchos servidores no tienen soporte a Python.
+
+Scala	-	Minimiza el código comparando con JAVA.
+-	Compatible con Java Virtual Machine	-	Es complejo de aprender para personas nuevas en el campo del desarrollo.
+-	Descuido de versiones anteriores.
+Ruby	-	Ahorro de código
+-	Código libre-		-	Poco conocimiento a nivel global del lenguaje.
+
+Rust	-	permite trabajar directamente con el procesador de forma segura.
+-	permite integrar proyectos en producción
+	-	No cuenta con recolector de basura.
+-	No es necesario tener conocimiento de C.
+
+
+-	Programación Funcional: Paradigma de la programación donde se hace uso de funciones matemáticas.
+-	Programación Orientada a Objetos: Paradigma de la programación donde los objetos que son instancias de la clase que tiene características específicas, usan datos que entran para obtener un tipo de dato de la clase.
+-	Programación Orientada a Eventos: Paradigma de la programación donde la estructura y la ejecución de los programas son determinados por los eventos que ocurren en el sistema.
+-	Programación reactiva: Paradigma de la programación donde el asincronismo es su filosofía basado en un flujo de datos que se encargan de transmitir cambios a nuestra APP.
+-	Microservicios: La idea de solucionar el problema del que solo fuera backend, surge los microservicios para impulsar el desarrollo, son una forma de programar donde se dividen componentes y se compilan independiente, pero funcionan en conjunto.
